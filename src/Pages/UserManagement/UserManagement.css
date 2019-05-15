@@ -1,0 +1,51 @@
+.user-management-container {
+    margin: 15px 15px 0 15px;
+}
+
+.title-management {
+    color: #170075;
+    float: left;
+}
+
+.create-user {
+    float: right;
+}
+
+.btn-other-feature {
+    padding: 6px 10px 7px 10px !important;
+    background: #170075;
+    color: #FFFFFF;
+    border-radius: 4px;
+}
+
+.btn-create-user {
+    margin-left: 20px;
+    background: #170075 !important;
+    color: #FFFFFF !important;
+}
+
+.hr {
+    clear: both;
+    height: 1px;
+    color: #F0F2F5;
+    background-color: #F0F2F5;
+    border: none;
+}
+
+.icon-plus, .icon-search {
+    padding-right: 5px;
+}
+
+.col-search {
+    margin-right: 30px;
+}
+
+.ant-form-item-required::before {
+    content: none !important;
+}
+
+.btn-search {
+    margin-top: 26px;
+    background: #170075 !important;
+    color: #FFFFFF !important;
+}

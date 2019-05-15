@@ -1,0 +1,25 @@
+.side-bar-container {
+    background: #FFFFFF;
+}
+
+.side-bar {
+    margin: 10px 0 0 10px;
+    background: #FFFFFF !important;
+    border: solid 1px #F0F2F5;
+}
+
+.title-sidebar {
+    text-align: left;
+    padding: 10px 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background: #170075;
+}
+
+.side-bar-items {
+    text-align: left;
+}
+
+.side-bar-items > span {
+    padding-left: 20px;
+}

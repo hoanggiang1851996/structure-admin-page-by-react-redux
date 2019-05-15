@@ -1,0 +1,38 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.nav-bar {
+    background: #170075;
+    width: 100%;
+    padding: 20px 30px 20px 10px;
+    color: #FFFFFF;
+}
+
+.nav-left > img {
+    float: left;
+    width: 80px;
+    height: auto;
+}
+
+.nav-right {
+    padding-top: 5px;
+    float: right;
+}
+
+.nav-right > a {
+    color: #FFFFFF;
+}
+
+.icon-nav, .icon-nav-user {
+    font-size: 20px;
+    padding-right: 5px;
+}
+
+.icon-nav-user {
+    padding-left: 50px;
+}
+
+.drop-down {
+    padding: 0 5px;
+}

@@ -1,0 +1,51 @@
+.container-form {
+    width: 100%;
+    padding-top: 80px;
+    background: #54B9ED;
+    height: 100vh;
+}
+
+.container-form-2 {
+    width: 400px;
+    margin: auto;
+    padding: 20px 0 100px 0;
+    border: solid 1px #DFE1E5;
+    border-radius: 5px;
+    background: #FFFFFF;
+}
+
+.title-login {
+    padding: 30px 0 30px 0;
+    text-align: center;
+}
+
+.title-register {
+    padding: 30px 0 10px 0;
+    text-align: center;
+}
+
+.auth-form {
+    max-width: 300px;
+    margin: auto !important;
+}
+
+.remember-checkbox {
+    padding-top: 15px;
+}
+
+.login-form-forgot {
+    float: right;
+}
+
+.auth-form-button {
+    width: 100%;
+}
+
+.ant-form-item label {
+    float: left;
+    margin-top: -15px;
+}
+
+.date-of-birth {
+    width: 100%;
+}
